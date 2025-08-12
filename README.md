@@ -1,0 +1,2 @@
+# WindMillAdMoreAdapter
+AdMore广告服务bidding

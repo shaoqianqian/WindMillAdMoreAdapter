@@ -1,0 +1,6 @@
+framework module WindMillAdMoreAdapter {
+  umbrella header "WindMillAdMoreAdapter.h"
+  export *
+
+  module * { export * }
+}
