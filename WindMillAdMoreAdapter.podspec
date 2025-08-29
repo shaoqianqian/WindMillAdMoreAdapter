@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'WindMillAdMoreAdapter'
-  s.version          = '1.0.5'
+  s.version          = '1.0.6'
   s.summary          = 'AdMore adapter for tobid mediation.'
   s.description      = 'A lightweight .framework adapter to integrate AdMore with tobid mediation.'
   s.homepage         = 'https://github.com/shaoqianqian/WindMillAdMoreAdapter.git'
